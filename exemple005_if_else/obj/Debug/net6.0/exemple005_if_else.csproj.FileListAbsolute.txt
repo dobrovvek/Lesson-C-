@@ -1,0 +1,15 @@
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple005_if_else\bin\Debug\net6.0\exemple005_if_else.exe
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple005_if_else\bin\Debug\net6.0\exemple005_if_else.deps.json
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple005_if_else\bin\Debug\net6.0\exemple005_if_else.runtimeconfig.json
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple005_if_else\bin\Debug\net6.0\exemple005_if_else.dll
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple005_if_else\bin\Debug\net6.0\exemple005_if_else.pdb
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple005_if_else\obj\Debug\net6.0\exemple005_if_else.csproj.AssemblyReference.cache
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple005_if_else\obj\Debug\net6.0\exemple005_if_else.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple005_if_else\obj\Debug\net6.0\exemple005_if_else.AssemblyInfoInputs.cache
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple005_if_else\obj\Debug\net6.0\exemple005_if_else.AssemblyInfo.cs
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple005_if_else\obj\Debug\net6.0\exemple005_if_else.csproj.CoreCompileInputs.cache
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple005_if_else\obj\Debug\net6.0\exemple005_if_else.dll
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple005_if_else\obj\Debug\net6.0\refint\exemple005_if_else.dll
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple005_if_else\obj\Debug\net6.0\exemple005_if_else.pdb
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple005_if_else\obj\Debug\net6.0\exemple005_if_else.genruntimeconfig.cache
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple005_if_else\obj\Debug\net6.0\ref\exemple005_if_else.dll
