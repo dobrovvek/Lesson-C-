@@ -1,0 +1,15 @@
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple007_cycle_while\bin\Debug\net6.0\exemple007_cycle_while.exe
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple007_cycle_while\bin\Debug\net6.0\exemple007_cycle_while.deps.json
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple007_cycle_while\bin\Debug\net6.0\exemple007_cycle_while.runtimeconfig.json
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple007_cycle_while\bin\Debug\net6.0\exemple007_cycle_while.dll
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple007_cycle_while\bin\Debug\net6.0\exemple007_cycle_while.pdb
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple007_cycle_while\obj\Debug\net6.0\exemple007_cycle_while.csproj.AssemblyReference.cache
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple007_cycle_while\obj\Debug\net6.0\exemple007_cycle_while.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple007_cycle_while\obj\Debug\net6.0\exemple007_cycle_while.AssemblyInfoInputs.cache
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple007_cycle_while\obj\Debug\net6.0\exemple007_cycle_while.AssemblyInfo.cs
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple007_cycle_while\obj\Debug\net6.0\exemple007_cycle_while.csproj.CoreCompileInputs.cache
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple007_cycle_while\obj\Debug\net6.0\exemple007_cycle_while.dll
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple007_cycle_while\obj\Debug\net6.0\refint\exemple007_cycle_while.dll
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple007_cycle_while\obj\Debug\net6.0\exemple007_cycle_while.pdb
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple007_cycle_while\obj\Debug\net6.0\exemple007_cycle_while.genruntimeconfig.cache
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple007_cycle_while\obj\Debug\net6.0\ref\exemple007_cycle_while.dll
