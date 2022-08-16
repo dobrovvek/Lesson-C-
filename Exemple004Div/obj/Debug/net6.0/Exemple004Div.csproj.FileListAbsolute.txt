@@ -1,0 +1,15 @@
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\Exemple004Div\bin\Debug\net6.0\Exemple004Div.exe
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\Exemple004Div\bin\Debug\net6.0\Exemple004Div.deps.json
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\Exemple004Div\bin\Debug\net6.0\Exemple004Div.runtimeconfig.json
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\Exemple004Div\bin\Debug\net6.0\Exemple004Div.dll
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\Exemple004Div\bin\Debug\net6.0\Exemple004Div.pdb
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\Exemple004Div\obj\Debug\net6.0\Exemple004Div.csproj.AssemblyReference.cache
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\Exemple004Div\obj\Debug\net6.0\Exemple004Div.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\Exemple004Div\obj\Debug\net6.0\Exemple004Div.AssemblyInfoInputs.cache
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\Exemple004Div\obj\Debug\net6.0\Exemple004Div.AssemblyInfo.cs
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\Exemple004Div\obj\Debug\net6.0\Exemple004Div.csproj.CoreCompileInputs.cache
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\Exemple004Div\obj\Debug\net6.0\Exemple004Div.dll
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\Exemple004Div\obj\Debug\net6.0\refint\Exemple004Div.dll
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\Exemple004Div\obj\Debug\net6.0\Exemple004Div.pdb
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\Exemple004Div\obj\Debug\net6.0\Exemple004Div.genruntimeconfig.cache
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\Exemple004Div\obj\Debug\net6.0\ref\Exemple004Div.dll
