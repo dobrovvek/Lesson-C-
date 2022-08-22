@@ -1,4 +1,4 @@
-﻿// Console.Clear();
+﻿ Console.Clear();
 // Console.SetCursorPosition(10, 2);
 // Console.WriteLine("+");
 
