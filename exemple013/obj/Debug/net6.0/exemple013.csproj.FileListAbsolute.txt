@@ -1,0 +1,15 @@
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple013\bin\Debug\net6.0\exemple013.exe
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple013\bin\Debug\net6.0\exemple013.deps.json
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple013\bin\Debug\net6.0\exemple013.runtimeconfig.json
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple013\bin\Debug\net6.0\exemple013.dll
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple013\bin\Debug\net6.0\exemple013.pdb
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple013\obj\Debug\net6.0\exemple013.csproj.AssemblyReference.cache
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple013\obj\Debug\net6.0\exemple013.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple013\obj\Debug\net6.0\exemple013.AssemblyInfoInputs.cache
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple013\obj\Debug\net6.0\exemple013.AssemblyInfo.cs
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple013\obj\Debug\net6.0\exemple013.csproj.CoreCompileInputs.cache
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple013\obj\Debug\net6.0\exemple013.dll
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple013\obj\Debug\net6.0\refint\exemple013.dll
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple013\obj\Debug\net6.0\exemple013.pdb
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple013\obj\Debug\net6.0\exemple013.genruntimeconfig.cache
+D:\Обучение\Education\GeeKBrains\C#\VS Code\Exemples\exemple013\obj\Debug\net6.0\ref\exemple013.dll
